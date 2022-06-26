@@ -18,13 +18,15 @@ Here is the screenshot of my To-Do-list app
 How to Start to do list in local server
 
 
-Prerequisites-install mongo DB 
+Prerequisites-"install mongo DB" 
 
-first you clone this in your system 
-then go to windows powershell or any other terminal and open file by cd to file location
-then install "npm init"
-afer that install "npm i"
-then "npm i node express mongoose ejs body-parser"
+
+
+1-first you clone this in your system 
+2-then go to windows powershell or any other terminal and open file by cd to file location
+3-then install "npm init"
+4-afer that install "npm i"
+5-then "npm i node express mongoose ejs body-parser"
 
 THEN node app.js
 
