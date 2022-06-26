@@ -1,5 +1,5 @@
 # TO-DO-LIST-ALL
-A TO-DO-LIST in which the user  scheduled his daily task. In this the user type his daily routine for all the day.
+A TO-DO-LIST in which the user  scheduled his daily task. In this the user type his daily routine for rest the day.
 
 This is the sample video of TO-DO-LIST
 
